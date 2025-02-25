@@ -1,5 +1,0 @@
-/home/wu/code/study_cmake/demo05/build/CMakeFiles/rebuild_cache.dir
-/home/wu/code/study_cmake/demo05/build/CMakeFiles/edit_cache.dir
-/home/wu/code/study_cmake/demo05/build/src/CMakeFiles/rebuild_cache.dir
-/home/wu/code/study_cmake/demo05/build/src/CMakeFiles/edit_cache.dir
-/home/wu/code/study_cmake/demo05/build/src/CMakeFiles/main.dir

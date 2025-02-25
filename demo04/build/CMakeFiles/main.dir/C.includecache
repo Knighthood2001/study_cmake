@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../testFunc/testFunc.h
+
+../testFunc1/testFunc1.h
+
+/home/wu/code/study_cmake/demo04/main.c
+stdio.h
+-
+testFunc.h
+/home/wu/code/study_cmake/demo04/testFunc.h
+testFunc1.h
+/home/wu/code/study_cmake/demo04/testFunc1.h
+
+/home/wu/code/study_cmake/demo04/testFunc/testFunc.c
+stdio.h
+-
+testFunc.h
+/home/wu/code/study_cmake/demo04/testFunc/testFunc.h
+
+/home/wu/code/study_cmake/demo04/testFunc/testFunc.h
+
+/home/wu/code/study_cmake/demo04/testFunc1/testFunc1.c
+stdio.h
+-
+testFunc1.h
+/home/wu/code/study_cmake/demo04/testFunc1/testFunc1.h
+
+/home/wu/code/study_cmake/demo04/testFunc1/testFunc1.h
+

@@ -1,8 +1,19 @@
-!demo01/build/
-!demo02/build/
-!demo03/build/
-!demo04/build/
-!demo05/build/
-!demo05_2/build/
-!demo06/build/
-!demo06_2/build/
+# 忽略所有 build 目录下的文件和子目录
+demo01/build/*
+demo02/build/*
+demo03/build/*
+demo04/build/*
+demo05/build/*
+demo05_2/build/*
+demo06/build/*
+demo06_2/build/*
+
+# 但保留 build 目录本身
+!demo01/build/.gitkeep
+!demo02/build/.gitkeep
+!demo03/build/.gitkeep
+!demo04/build/.gitkeep
+!demo05/build/.gitkeep
+!demo05_2/build/.gitkeep
+!demo06/build/.gitkeep
+!demo06_2/build/.gitkeep

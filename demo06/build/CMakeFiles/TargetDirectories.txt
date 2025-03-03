@@ -1,4 +1,0 @@
-/home/wu/code/study_cmake/demo06/build/CMakeFiles/rebuild_cache.dir
-/home/wu/code/study_cmake/demo06/build/CMakeFiles/edit_cache.dir
-/home/wu/code/study_cmake/demo06/build/CMakeFiles/testFunc_static.dir
-/home/wu/code/study_cmake/demo06/build/CMakeFiles/testFunc_shared.dir
